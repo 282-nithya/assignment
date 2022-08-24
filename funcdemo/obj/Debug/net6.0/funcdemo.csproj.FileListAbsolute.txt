@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\funcdemo.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\funcdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\funcdemo.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\funcdemo.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\funcdemo.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\mydemos\funcdemo\bin\Debug\net6.0\funcdemo.exe
+C:\Users\ETG1\source\repos\mydemos\funcdemo\bin\Debug\net6.0\funcdemo.deps.json
+C:\Users\ETG1\source\repos\mydemos\funcdemo\bin\Debug\net6.0\funcdemo.runtimeconfig.json
+C:\Users\ETG1\source\repos\mydemos\funcdemo\bin\Debug\net6.0\funcdemo.dll
+C:\Users\ETG1\source\repos\mydemos\funcdemo\bin\Debug\net6.0\funcdemo.pdb
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\funcdemo.dll
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\refint\funcdemo.dll
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\funcdemo.pdb
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\funcdemo.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\mydemos\funcdemo\obj\Debug\net6.0\ref\funcdemo.dll
